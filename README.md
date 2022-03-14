@@ -14,3 +14,5 @@ I spent the last years studying and applying new software architectures, adding 
     </tr>   
 </table>
 </center>  
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,cloudflare,docker,git,go,linux,md,mongodb,mysql,php)](https://skillicons.dev)
